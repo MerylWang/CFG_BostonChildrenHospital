@@ -1,5 +1,10 @@
 #tester{
     position:absolute;
-    left: 100px;
-    top: 150px;
+    left: 610px;
+    top: 550px;
+    width: 120px;
+    height: 60px;
+    background: transparent;
+    border-color: transparent;
+    outline: none;
 }
