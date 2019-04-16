@@ -9,7 +9,7 @@ git status
 
 git add * 
 
-git commit -m "map"
+git commit -m "insert message here"
 
 git pull 
 
