@@ -4,17 +4,8 @@ MIT Code For Good
 
 Spring 2019
 
-Map-Calendar Interface for Boston Children's Museum
+Interactable Map for Boston Children's Museum
 
-git status
-
-git add * 
-
-git commit -m "insert message here"
-
-git pull 
-
-git push origin master
-
+open index.html in browser to see webpage
 
 
