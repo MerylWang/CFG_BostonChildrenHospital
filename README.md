@@ -4,17 +4,13 @@ MIT Code For Good
 
 Spring 2019
 
-Map-Calendar Interface for Boston Children's Museum
+Interactable Map for Boston Children's Museum
 
-git status
-
-git add * 
-
-git commit -m "insert message here"
-
-git pull 
-
-git push origin master
+**open index.html in browser to see webpage**
 
 
-
+##List of Files
+- ./Images/: contains images for floor maps and exhibitions
+- ./js/modal.js: sets up Modal Box object for showing pop-ups when button is clicked
+- index.html: main file for the webpage. Contains page setup and button placements. 
+- ./styles.css: contains css for the pop-ups
