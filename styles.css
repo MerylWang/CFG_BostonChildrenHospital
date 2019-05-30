@@ -15,24 +15,28 @@
     outline: none;
 }
 
-#japan{top: 6%; left: 23%; width: 6.5%; height: 35%}
-#bostonblack{top: 17.5%; left: 32%; width: 14%; height: 42%}
-#construction{top: 17.5%; left: 46%; width: 15%; height: 42%}
+#japan{top: 28.5%; left: 20%; width: 9%; height: 30%}
+#bostonblack{top: 35%; left: 30%; width: 14%; height: 35%}
+#construction{top: 35%; left: 44.5%; width: 14%; height: 35%}
+#dino{top: 76%; left: 24%; width: 18%; height: 20%}
 
-#common{top: 14%; left: 47%; width: 13%; height: 40%}
-#playspace{top: 14%; left: 18.5%; width: 13.5%; height: 40%}
-#peep{top: 14%; left: 32.5%; width: 8%; height: 40%}
-#kindergarten{top: 23%; left: 40%; width: 6%; height: 32%}
-#arthur{top: 14%; left: 60%; width: 9%; height: 40%}
-#gallery{top: 11%; left: 78%; width: 8.5%; height: 43%}
-#artstudio{top: 23%; left: 87%; width: 5.5%; height: 30%}
-#power{top: 66%; left: 27.5%; width: 11%; height: 18%}
+#common{top: 31%; left: 43.8%; width: 13.8%; height: 33%}
+#playspace{top: 26.5%; left: 15%; width: 14.7%; height: 37.8%}
+#peep{top: 29%; left: 29.8%; width: 8%; height:35%}
+#kindergarten{top: 37%; left: 37.7%; width: 6%; height: 28%}
+#arthur{top: 30.8%; left: 57.6%; width: 8.9%; height: 33%}
+#keva{top: 30.8%; left: 66.6%; width: 10.2%; height: 33%}
+#gallery{top: 39.2%; left: 77.4%; width: 8.5%; height: 14%}
+#steam{top: 27%; left: 77.8%; width: 6%; height: 11%}
+#johnny{top: 55%; left: 81%; width: 5%; height: 9%}
+#artstudio{top: 40%; left: 87%; width: 5.1%; height: 22%}
+#power{top: 70.5%; left: 24.5%; width: 12%; height: 17.6%}
 
 
-#kidstage{top: 13%; left: 33%; width: 13.3%; height: 30%;}
-#bubbles{top: 13%; left: 46.4%; width: 4.5%; height: 30%;}
-#investigate{top: 13%; left: 51%; width: 5.4%; height: 30%;}
-#raceways{top: 13%; left: 56.5%; width: 4.5%; height: 30%;}
-#shop{top: 17%; left: 61%; width: 9%; height: 26%;}
-#kidpower{top:50%; left:39.5%; width: 7%; height: 20%;}
-#climb{top:50%; left:52%; width: 5%; height: 20%;}
+#kidstage{top: 25%; left: 29.5%; width: 14.5%; height: 25.3%;}
+#bubbles{top: 34%; left: 44.1%; width: 4.3%; height: 18%;}
+#investigate{top: 33.5%; left: 48.5%; width: 5.5%; height: 18%;}
+#raceways{top: 26%; left: 54.2%; width: 4.5%; height: 25%;}
+#shop{top: 30.3%; left: 59.2%; width: 9.1%; height: 21%;}
+#kidpower{top:58.5%; left:36.3%; width: 8.2%; height: 12.7%;}
+#climb{top:61%; left:50.5%; width: 5%; height: 10%;}
