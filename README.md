@@ -13,3 +13,5 @@ https://wangms.scripts.mit.edu/CFG_BostonChildrenMuseum/
 - ./js/modal.js: sets up Modal Box object for showing pop-ups when button is clicked
 - index.html: main file for the webpage. Contains page setup and button placements. 
 - ./styles.css: contains css for the pop-ups
+
+Contributors: Meryl Wang, 
