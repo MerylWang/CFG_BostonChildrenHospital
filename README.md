@@ -6,8 +6,7 @@ Spring 2019
 
 Interactable Map for Boston Children's Museum
 
-**open index.html in browser to see webpage**
-
+https://wangms.scripts.mit.edu/CFG_BostonChildrenMuseum/
 
 ##List of Files
 - ./Images/: contains images for floor maps and exhibitions
