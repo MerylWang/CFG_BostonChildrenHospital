@@ -14,4 +14,4 @@ https://wangms.scripts.mit.edu/CFG_BostonChildrenMuseum/
 - index.html: main file for the webpage. Contains page setup and button placements. 
 - ./styles.css: contains css for the pop-ups
 
-Contributors: Meryl Wang, 
+Contributors: Katherine Xiong, Madie Wang, Meryl Wang, Cindy Zhang
